@@ -1,0 +1,2 @@
+class FoodReportNotExistError(Exception):
+    pass
